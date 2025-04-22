@@ -8,11 +8,11 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/github/last-commit/dimkagithub/dimkagithub.github.io">
-  <img src="https://img.shields.io/github/commit-activity/m/dimkagithub/dimkagithub.github.io">
-  <img src="https://img.shields.io/github/directory-file-count/dimkagithub/dimkagithub.github.io">
-  <img src="https://img.shields.io/github/repo-size/dimkagithub/dimkagithub.github.io">
-  <img src="https://img.shields.io/tokei/lines/github/dimkagithub/dimkagithub.github.io">
+  <img src="https://img.shields.io/badge/Home_Page-blue?style=plastic">
+  <img src="https://img.shields.io/github/last-commit/dimkagithub//dimkagithub.github.io/main?style=plastic">
+  <img src="https://img.shields.io/github/commit-activity/m/dimkagithub//dimkagithub.github.io/main?style=plastic">
+  <img src="https://img.shields.io/github/directory-file-count/dimkagithub//dimkagithub.github.io?style=plastic">
+  <img src="https://img.shields.io/github/repo-size/dimkagithub//dimkagithub.github.io?style=plastic">
   
 </body>
 </html>
